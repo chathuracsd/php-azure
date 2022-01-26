@@ -4,6 +4,6 @@
  </head>
  <body>
  <?php echo '<p>Hello World
-               COHNDNE211F-025</p>'; ?> 
+               K.G.C.S Dilshan</p>'; ?> 
  </body>
 </html>
